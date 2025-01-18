@@ -1,31 +1,32 @@
-# Materiais de Data Science
+# Data Science Materials
 
-Este repositório contém um link para uma pasta no Google Drive com diversos materiais e recursos relacionados a **Data Science**.
+This repository contains a link to a Google Drive folder with various materials and resources related to **Data Science**.
 
-Clique no link abaixo para acessar:
+Click the link below to access:
 
-[**Materiais de Data Science**](https://drive.google.com/drive/folders/1rcnQzS4Ab8qupSI_s88m3E6DaHqfnaG4)
+[**Data Science Materials**](https://drive.google.com/drive/folders/1rcnQzS4Ab8qupSI_s88m3E6DaHqfnaG4)
 
-## Descrição
+## Description
 
-Na pasta, você encontrará recursos como:
-- Notebooks de Python
-- Tutoriais
-- Artigos e livros
-- Exemplos de código
-- E muito mais!
+In the folder, you will find resources such as:
+- Python notebooks
+- Tutorials
+- Articles and books
+- Code examples
+- And much more!
 
-## Como Usar
+## How to Use
 
-1. Acesse o link acima.
-2. Navegue pelos arquivos e faça o download ou use conforme sua necessidade.
-3. Sinta-se à vontade para contribuir ou sugerir novos materiais.
+1. Access the link above.
+2. Browse through the files and download or use them as needed.
+3. Feel free to contribute or suggest new materials.
 
-## Contribuições
+## Contributions
 
-Se você tiver materiais adicionais que gostaria de compartilhar, fique à vontade para adicionar ou abrir uma issue com sugestões.
+If you have additional materials you would like to share, feel free to add them or open an issue with suggestions.
 
 ---
 
-**Nota:** Certifique-se de ter uma conta Google para acessar e fazer o download dos materiais.
+**Note:** Make sure you have a Google account to access and download the materials.
+
 
